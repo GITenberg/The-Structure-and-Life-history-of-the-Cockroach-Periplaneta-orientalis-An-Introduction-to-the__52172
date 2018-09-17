@@ -1,5 +1,8 @@
 _repo: The-Structure-and-Life-history-of-the-Cockroach-Periplaneta-orientalis-An-Introduction-to-the__52172
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52172-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Denny, Alfred
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '46707'
     url: http://www.gutenberg.org/2009/agents/46707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52172#The-Structure-and-Life-history-of-the-Cockroach-Periplaneta-orientalis-An-Introduction-to-the_
 gutenberg_issued: '2016-05-28'
 gutenberg_type: Text
 identifiers:
