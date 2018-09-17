@@ -1,0 +1,30 @@
+_repo: The-Structure-and-Life-history-of-the-Cockroach-Periplaneta-orientalis-An-Introduction-to-the__52172
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Denny, Alfred
+    gutenberg_agent_id: '46708'
+    url: http://www.gutenberg.org/2009/agents/46708
+  - agent_name: Miall, L. C. (Louis Compton)
+    alias: Miall, Louis Compton
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '46707'
+    url: http://www.gutenberg.org/2009/agents/46707
+description: ''
+gutenberg_issued: '2016-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Studies in Comparative Anatomy—III
+subjects:
+- !lcsh 'Cockroaches'
+- !lcc 'QL'
+- GITenberg
+title: "The Structure and Life-history of the Cockroach (Periplaneta orientalis)\r\
+  \nAn Introduction to the Study of Insects"
+url: http://www.gutenberg.org/ebooks/52172
